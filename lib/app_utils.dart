@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+
+const Color colorCabbageDark = Color(0xFF531524);
+const Color colorCabbageLight = Color(0xFFFF8093);
+const Color colorCucumbersDark = Color(0xFF7CBB00);
+const Color colorCucumbersLight = Color(0xFFD5FF4C);
+const Color colorMushroomsDark = Color(0xFF678A00);
+const Color colorMushroomsLight = Color(0xFFDDE366);
+const Color colorCarrotsDark = Color(0xFFFF8229);
+const Color colorCarrotsLight = Color(0xFFFFBD80);
+const Color colorZucchiniDark = Color(0xFF3B2C0E);
+const Color colorZucchiniLight = Color(0xFFFFF242);
+const Color colorSpinachDark = Color(0xFF0D311D);
+const Color colorSpinachLight = Color(0xFF6BEF67);
+const Color colorKaleDark = Color(0xFF7CBB00);
+const Color colorKaleLight = Color(0xFFFFE95C);
+const Color colorOnionsDark = Color(0xFFDA7720);
+const Color colorOnionsLight = Color(0xFFFFC15D);
+const Color colorSweetPotatoesDark = Color(0xFF360C12);
+const Color colorSweetPotatoesLight = Color(0xFFCBBDC0);
+const Color colorPotatoesDark = Color(0xFFD600A8);
+const Color colorPotatoesLight = Color(0xFFFD869A);
+const Color colorBellPaperDark = Color(0xFF601631);
+const Color colorTomatoesLight = Color(0xFFFF809B);
+const Color colorEggplantDark = Color(0xFF3B9834);
+const Color colorEggplantLight = Color(0xFF84F476);
